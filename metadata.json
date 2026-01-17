@@ -1,0 +1,7 @@
+{
+  "name": "Vogue AI - Virtual Try-On",
+  "description": "A high-end fashion AI application for virtual hairstyle and outfit transformations using Gemini models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
